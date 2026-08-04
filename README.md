@@ -45,10 +45,6 @@
     **[payments-service](https://github.com/ilyaytrewq/Payments-Service)**  \
   *Tech Stack:* Go, Kafka, gRPC, PostgreSQL, Redis, Docker, GitHub Actions (CI/CD)
 
-* **metricsys** — Микросервисная система веб-метрик на C++: REST приём, RabbitMQ очередь, хранение в PostgreSQL; агрегация по gRPC в 5-минутные бакеты + health-check сервис\
-  **[metricsys](https://github.com/ilyaytrewq/MetricService)**\
-Tech Stack: C++23, gRPC/Protobuf, RabbitMQ, PostgreSQL, Docker, CMake
-
 * **weather-service** — Подписки на погоду: планирование рассылок, RabbitMQ, отправка SMTP/Telegram\
  **[weather-service](https://github.com/ilyaytrewq/WeatherService)**
   \
