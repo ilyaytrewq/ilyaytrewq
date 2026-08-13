@@ -1,4 +1,4 @@
-## **Yandex Golang Developer · HSE University · 3nd-year Student**
+## **Golang Developer · HSE University · 3nd-year Student**
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
   <div>
