@@ -1,9 +1,7 @@
 ## **Golang Developer · HSE University Student**
 
 <div style="display: flex; flex-direction: column; gap: 5px;">
-  <div>
-    Резюме: <a href="https://github.com/ilyaytrewq/ilyaytrewq/blob/master/Tikhonov_Ilya.pdf" target="_blank">Tikhonov_Ilya_CV</a>
-  </div>
+  
   <div>
     Почта: <a href="mailto:tixonovilya324@gmail.com">tixonovilya324@gmail.com</a>
   </div>
